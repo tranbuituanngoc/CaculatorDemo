@@ -1,0 +1,15 @@
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\bin\Debug\netstandard2.0\CaculatorDemo.deps.json
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\bin\Debug\netstandard2.0\CaculatorDemo.dll
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\bin\Debug\netstandard2.0\CaculatorDemo.pdb
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\CaculatorDemo.csproj.AssemblyReference.cache
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\CaculatorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\CaculatorDemo.AssemblyInfoInputs.cache
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\CaculatorDemo.AssemblyInfo.cs
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\CaculatorDemo.csproj.CoreCompileInputs.cache
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\CaculatorDemo.dll
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\refint\CaculatorDemo.dll
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\CaculatorDemo.pdb
+D:\Work\HocC#\CaculatorDemo\CaculatorDemo\CaculatorDemo\obj\Debug\netstandard2.0\ref\CaculatorDemo.dll

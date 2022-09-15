@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZGpMShtAY0oPyu7K6U4hxG0lxqzCa0hf2BfImYf9jSlOCeaR3Fz4BdbOepRwVbybwpftxl5FYt1DaMd0r98vQ==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\HocC#\\CaculatorDemo\\CaculatorDemo\\CaculatorDemo.iOS\\CaculatorDemo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tranb\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tranb\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
